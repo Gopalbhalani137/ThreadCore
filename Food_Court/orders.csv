@@ -1,0 +1,30 @@
+order_id,restaurant_name,distance_km,prep_time_seconds
+1,KFC,0,0
+2,Tea Post,0,0
+3,Maharaja Dosa,0,0
+4,Burger King,6,15
+5,KFC,4,12
+6,Mahalakhmi BhajiPav,2,7
+7,Tea Post,1.5,6
+8,Burger King,5,14
+9,Maharaja Dosa,7,18
+10,KFC,2.5,9
+11,Mahalakhmi BhajiPav,3,8
+12,Tea Post,0.8,4
+13,Burger King,6.5,16
+14,KFC,5,13
+15,Maharaja Dosa,9,22
+16,Tea Post,2,7
+17,Mahalakhmi BhajiPav,1.2,5
+18,Burger King,4,12
+19,KFC,3.5,11
+20,Maharaja Dosa,8.5,21
+21,Burger King,6.5,16
+22,KFC,5,13
+23,Maharaja Dosa,9,22
+24,Tea Post,2,7
+25,Mahalakhmi BhajiPav,1.2,5
+26,Burger King,4,12
+27,KFC,3.5,11
+28,Maharaja Dosa,8.5,21
+

@@ -1,0 +1,7 @@
+{
+  "order_csv_file_name": "orders.csv",
+  "available_restaurant_today": ["KFC", "Burger King", "Tea Post"],
+  "bike_agents": 3,
+  "car_agents": 2,
+  "distance_threshold": 5
+}
